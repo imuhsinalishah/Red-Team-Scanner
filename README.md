@@ -26,6 +26,7 @@ Run the tool with the following options:
 
 - **SQL Injection Scan**:
   ```bash
+  run python web_exploit.py      or
   python webexploit.py --url <target_url> --scan sqli --output <path_to_report>
   python webexploit.py --url <target_url> --scan xss --output <path_to_report>
   python webexploit.py --url <target_url> --scan redirect --output <path_to_report>
