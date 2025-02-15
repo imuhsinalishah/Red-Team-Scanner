@@ -1,0 +1,3 @@
+url: https://devkaar.com
+status: Possible Open Redirect
+payload: https://evil.com

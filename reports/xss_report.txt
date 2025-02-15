@@ -1,0 +1,3 @@
+url: https://devkaar.com
+status: Possible XSS
+payload: <script>alert(1)</script>

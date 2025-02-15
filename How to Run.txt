@@ -1,0 +1,5 @@
+pip install requests beautifulsoup4 validators
+pip install requirements.txt
+
+Run the Tool
+python web_exploit.py

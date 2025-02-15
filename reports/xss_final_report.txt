@@ -1,0 +1,4 @@
+--- Cross-Site Scripting (XSS) Report ---
+Target URL: http://testphp.vulnweb.com/listproducts.php
+
+[-] No XSS vulnerabilities detected.
